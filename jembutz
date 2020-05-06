@@ -68,15 +68,15 @@ logo='''
 \033[1;91m ┈┈┈┈╲┊┊┊┊╱┈┈┈┈☜☜☜☜☜☜\033[0;37m\033[0;37m☜☜☜☜☜┈┈┈┈╲┊┊┊┊╱┈┈┈┈
 \033[1;91m ┈┈┈┈▕╲▂▂╱▏┈┈┈┈☞☞☞☞☞☞\033[0;37m☜☜☜☜☜┈┈┈┈▕╲▂▂╱▏┈┈┈┈
 \033[1;91m ╱▔▔▔▔┊┊┊┊▔▔▔▔╲☞☞☞☞☞☞\033[0;37m☜☜☜☜☜╱▔▔▔▔┊┊┊┊▔▔▔▔╲
-\033[1;91m..............\033[1;96mWAHYU TUTORIAL\033[0;37m.............
+\033[1;91m..............\033[1;96mJKT Your Gaming \033[0;37m.............
 \033[1;91m................\033[1;96m✬🄵🄰🄲🄴🄱🄾🄾🄺✬\033[0;37m...............
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-\033[1;91m☞ Author     : Wahyu Candra Pratama
-\033[1;92m☞ Facebook : Wahyu Candra Pratama
-\033[1;95m☞ YouTube    : Wahyu Tutorial
-\033[1;93m☞ Whatsapp : 082282130708
+\033[1;91m☞ Author     : Galang Rizky
+\033[1;92m☞ Facebook : Wetselow
+\033[1;95m☞ YouTube    : JKT Your Gaming
+\033[1;93m☞ Whatsapp : 085714608649
 
 \033[1;96m░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
                                 '''
@@ -181,15 +181,15 @@ def mb():
 	    psb('☆☆☆☆☆☆☆☆☆90%')
 	    psb('☆☆☆☆☆☆☆☆☆☆100%')
 	    psb('Login Ke Akun Baru')
-	    psb('facebook id wahyu candra pratama')
-	    psb('WellCome To Wahyu Tutorial')
-	    psb('Congratulations Wahyu Tutorial Tools Has Been Updated Successfully')
-	    psb('🔓User Name☆ wahyu')
+	    psb('facebook id Wetselow')
+	    psb('WellCome To JKT Your Gaming')
+	    psb('Congratulations JKT Your Gaming Tools Has Been Updated Successfully')
+	    psb('🔓User Name☆ Galang')
 	    psb('🔓Password ☆ indonesia')
-	    psb('Subscrbe Channel Yutube Ku Wahyu Tutorial')
+	    psb('Subscrbe Channel Yutube Ku JKT Your Gaming')
 	    psb('Silahkan Login Kembali')
 	elif bm =='3':
-	    os.system('xdg-open https://www.youtube.com/channel/UCn9x-lhJSeoyYHfSRdUVWmA')
+	    os.system('xdg-open https://www.youtube.com/channel/UCkEfsbW9tGRTigixO4unhSA')
 	    menu()
 	elif bm =='4':
 		psb('Token Has Been Removed')
