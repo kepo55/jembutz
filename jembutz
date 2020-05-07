@@ -148,8 +148,8 @@ def menu():
 	print (S + 50*'-')
 	print
 	print (S + '[' + P + '☞1' + S + ']' + S + ' Fast Cloning New Update')
-	print (S + '[' + P + '☞2' + S + ']' + S + ' Update Wahyu Tutorial Tools')
-	print (S + '[' + P + '☞3' + S + ']' + S + ' WAHYU TUTORIAL')
+	print (S + '[' + P + '☞2' + S + ']' + S + ' Update JKT Your Gaming Tools')
+	print (S + '[' + P + '☞3' + S + ']' + S + ' JKT Your Gaming')
 	print (S + '[' + Y + '☞4' + S + ']' + G + ' Log Out')
 	print (S + '[' + Y + '☞0' + S + ']' + R + ' Keluar')
 	print
@@ -166,8 +166,8 @@ def mb():
 	elif bm =='1':
 		pak()
 	elif bm =='2':
-	    os.system('rm -rf $HOME/Wahyu-Tutorial')
-	    os.system('cd $HOME && git clone https://github.com/Wahyoe14/jembutz')
+	    os.system('rm -rf $HOME/JKT Your Gaming')
+	    os.system('cd $HOME && git clone https://github.com/kepo55/jembutz')
 	    cb()
 	    print (logo)
 	    psb('☆10%')
